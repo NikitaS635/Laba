@@ -1,0 +1,6 @@
+C:/Users/User2/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/User2/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User2/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User2/CLionProjects/untitled1/cmake-build-debug/vector/CMakeFiles/vector.dir
+C:/Users/User2/CLionProjects/untitled1/cmake-build-debug/vector/CMakeFiles/edit_cache.dir
+C:/Users/User2/CLionProjects/untitled1/cmake-build-debug/vector/CMakeFiles/rebuild_cache.dir
